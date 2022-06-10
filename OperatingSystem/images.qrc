@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/folder-cliked.png</file>
+        <file>img/folder-natural.png</file>
+        <file>img/wykresy1.png</file>
+        <file>img/wykresy1Clicked.png</file>
+    </qresource>
+</RCC>

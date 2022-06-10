@@ -1,0 +1,25 @@
+Wielkosc poszczegolnych typow plikow w katalogach [Mb]:
+# Katalog 1:	[lacznie:173.883Mb]
+	-txt:54.5645 Mb
+	-jpeg:42.8505 Mb
+	-png:52.3007 Mb
+	-pdf:24.1675 Mb
+
+# Katalog 2:	[lacznie:150.769Mb]
+	-txt:60.539 Mb
+	-jpeg:36.8176 Mb
+	-png:24.709 Mb
+	-pdf:28.7029 Mb
+
+# Katalog 3:	[lacznie:136.661Mb]
+	-txt:34.0606 Mb
+	-jpeg:24.2964 Mb
+	-png:40.164 Mb
+	-pdf:38.1403 Mb
+
+# Katalog 4:	[lacznie:175.37Mb]
+	-txt:42.4097 Mb
+	-jpeg:46.3483 Mb
+	-png:42.5085 Mb
+	-pdf:44.1035 Mb
+
